@@ -1,0 +1,6 @@
+{
+	"server": "smtp.qq.com",
+	"sender": "发件人邮箱",
+	"receiver": "收件人邮箱，用逗号隔开",
+	"password": "SMTP服务器密码"
+}
